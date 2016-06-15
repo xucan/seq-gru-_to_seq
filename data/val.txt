@@ -1,0 +1,8 @@
+who is aaron ?	he is my teacher .
+who is abbott ?	he is my manager .
+who is byron ?	he is my dad .
+do you know who is ford ?	yes , he is my brother .
+do you know who is ford ?	yes , he is my brother .
+do you know who is byron ?	yes , he is my dad .
+do you know who is abbott ?	yes , he is my manager .
+do you know who is aaron ?	yes , he is my teacher .
